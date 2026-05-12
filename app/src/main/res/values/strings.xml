@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Financial Tracker</string>
+    <string name="empty">Tidak Ada Data</string>
+    <string name="empty_data">Belum Ada Data Transaksi</string>
+    <string name="pengeluaran">Nama Pengeluaran</string>
+    <string name="pengeluaran_total">Total Pengeluaran</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="kategori">Kategori</string>
+    <string name="tanggal_filter">Tanggal</string>
+    <string name="btn_hapus">Hapus</string>
+    <string name="hapus_desc">Tombol Hapus</string>
+    <string name="btn_batal">Batal</string>
+    <string name="konfirmasi">Hapus Transaksi</string>
+    <string name="desc">Yakin ingin menghapus transaksi ini?</string>
+
+</resources>
